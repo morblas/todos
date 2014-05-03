@@ -1,0 +1,9 @@
+touch yourname.txt
+echo "My name is yourname" >>  yourname.txt
+echo "I like yourfavoritefood" >> yourname.txt
+echo "I live in whereyoulive" >> yourname.txt
+cat yourname.txt > yournamecopy.txt
+mv yournamecopy.txt stevenrules.txt
+cat youyournamecopy.txt stevenrules.txt >> everything.txt
+echo "I like pina coladas and getting caught in the rain" >> everything.txt
+ls *.txt > textfileslist
