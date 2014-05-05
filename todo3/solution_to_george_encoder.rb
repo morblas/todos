@@ -1,3 +1,3 @@
-def decode(string)
-  string.reverse.swapcase
+def decode(str)
+  str.reverse.swapcase
 end
